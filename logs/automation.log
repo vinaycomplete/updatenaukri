@@ -1,0 +1,44 @@
+12:28:09.351 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+12:28:09.594 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+12:28:10.637 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+12:28:20.735 [main] ERROR testCases.TC001_UpdateProfile - Test failed..
+06:08:25.374 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+06:08:25.696 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+06:08:26.530 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+06:08:40.254 [main] ERROR testCases.TC001_UpdateProfile - Test failed..
+06:14:56.427 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+06:14:56.736 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+06:14:57.572 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+06:15:11.785 [main] ERROR testCases.TC001_UpdateProfile - Test failed..
+06:36:26.424 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+06:36:26.775 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+06:36:27.671 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+06:36:31.687 [main] INFO  testCases.TC001_UpdateProfile - Clicked on View Profile  button
+06:36:51.860 [main] ERROR testCases.TC001_UpdateProfile - Test failed..
+06:38:47.392 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+06:38:47.675 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+06:38:48.579 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+06:38:52.475 [main] INFO  testCases.TC001_UpdateProfile - Clicked on View Profile  button
+06:39:14.571 [main] ERROR testCases.TC001_UpdateProfile - Test failed..
+06:41:30.992 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+06:41:31.123 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+06:41:31.669 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+06:41:34.407 [main] INFO  testCases.TC001_UpdateProfile - Clicked on View Profile  button
+06:41:34.652 [main] INFO  testCases.TC001_UpdateProfile - Clicked on Edit icon
+06:41:35.964 [main] ERROR testCases.TC001_UpdateProfile - Test failed..
+06:43:22.935 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+06:43:23.148 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+06:43:23.691 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+06:43:26.554 [main] INFO  testCases.TC001_UpdateProfile - Clicked on View Profile  button
+06:43:26.766 [main] INFO  testCases.TC001_UpdateProfile - Clicked on Edit icon
+06:43:27.120 [main] INFO  testCases.TC001_UpdateProfile - Clicked on Save Profile
+06:43:27.185 [main] INFO  testCases.TC001_UpdateProfile - Validating confirmation message
+06:43:28.171 [main] INFO  testCases.TC001_UpdateProfile - ****End of Profile Update**********
+17:06:58.100 [main] INFO  testCases.TC001_UpdateProfile - ******Start profile update******
+17:06:58.467 [main] INFO  testCases.TC001_UpdateProfile - Click on Login link
+17:06:59.659 [main] INFO  testCases.TC001_UpdateProfile - Click on Login button
+17:07:05.603 [main] INFO  testCases.TC001_UpdateProfile - Clicked on View Profile  button
+17:07:05.953 [main] INFO  testCases.TC001_UpdateProfile - Clicked on Edit icon
+17:07:06.567 [main] INFO  testCases.TC001_UpdateProfile - Clicked on Save Profile
+17:07:06.677 [main] INFO  testCases.TC001_UpdateProfile - Validating confirmation message
+17:07:07.858 [main] INFO  testCases.TC001_UpdateProfile - ****End of Profile Update**********

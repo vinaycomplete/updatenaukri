@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-05T17:06:45 IST" name="NaukriSuite" finished-at="2024-10-05T17:07:08 IST" duration-ms="23303">
+    <groups>
+    </groups>
+    <test started-at="2024-10-05T17:06:45 IST" name="naukrittest" finished-at="2024-10-05T17:07:08 IST" duration-ms="23303">
+      <class name="testCases.TC001_UpdateProfile">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_UpdateProfile@2f01783a]" started-at="2024-10-05T17:06:45 IST" name="setup" finished-at="2024-10-05T17:06:58 IST" duration-ms="12955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_profile_update()[pri:0, instance:testCases.TC001_UpdateProfile@2f01783a]" started-at="2024-10-05T17:06:58 IST" name="verify_profile_update" finished-at="2024-10-05T17:07:07 IST" duration-ms="9789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_profile_update -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_UpdateProfile@2f01783a]" started-at="2024-10-05T17:07:07 IST" name="tearDown" finished-at="2024-10-05T17:07:08 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_UpdateProfile -->
+    </test> <!-- naukrittest -->
+  </suite> <!-- NaukriSuite -->
+</testng-results>
